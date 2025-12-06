@@ -3,19 +3,6 @@ Real-Time Crowd Analytics | YOLOv4-Tiny | DeepSORT | Behaviour Modelling | Flask
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ReID-orange.svg)
-![Flask](https://img.shields.io/badge/Flask-Server-black.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
-## 📌 Overview
-
-**CrowdShield** is an AI-powered real-time video analytics system designed to **detect, track, and analyse human crowd behaviour** to prevent stampedes and dangerous crowd formations.
-
-This system leverages:
-
-- **YOLOv4-Tiny** → Fast, real-time human detection  
 - **DeepSORT** → Multi-person identity tracking  
 - **Crowd Analytics** → Density estimation, movement heatmaps  
 - **Behaviour Analysis** → Speed, acceleration, energy spikes  
